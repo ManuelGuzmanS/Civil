@@ -1,4 +1,4 @@
-using Civil.API;
+using Civil.Web;
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
 
