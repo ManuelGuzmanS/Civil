@@ -1,0 +1,6 @@
+@Civil.Web_HostAddress = http://localhost:5245
+
+GET {{Civil.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
